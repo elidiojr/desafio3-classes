@@ -1,4 +1,4 @@
-/* Desafio DIO 3 - Escrevendo as classes de um jogo 8?
+/* Desafio DIO #3 - Escrevendo as classes de um jogo
 
 /* tipo: guerreiro, mago, monge, ninja */
 /* usando: espada, magia, artes marciais, shuriken */
